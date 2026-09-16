@@ -1,0 +1,2 @@
+-- Core schema: organisations, users, roles
+-- Placeholder for core tables
